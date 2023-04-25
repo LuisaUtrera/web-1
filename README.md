@@ -11,7 +11,7 @@
 
 <body>
     <div class="heart"></div>
-<p>Miau u</p>
+
 </body>
 
 </html>
@@ -29,12 +29,7 @@ body {
      
 }
        
-p{
-        background-color: black;
-         color: rgb(228, 116, 222);
-         font-family:'Times New Roman', Times, serif;
-         padding-top: 50px;
-       }
+
 
 .heart {
     height: 70px;
